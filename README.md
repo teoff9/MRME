@@ -11,13 +11,16 @@ You can download Python 3 at the [official site][3], while pip3 can be downloade
 ### Get the files
 
 Get the files either by cloning the repository with git CLI:
- *insert here*
+ `git clone https://github.com/teoff9/MRME/`
 
-or downloading the zip *insert here*
+or downloading the [zip][5].
 
 ### Launch the program
 
-Once in the folder MRME, launch first setup.py and then, once the packages are all installed, proceed to run *MRME.py* .
+Once in the folder MRME: 
+ - launch first *setup.py* 
+and then, once the packages are all installed: 
+ - launch *MRME.py*
 
 ## Contribute to the project
 
@@ -27,3 +30,4 @@ If you would like to contribute to MRME, feel free to create a pull request.
 [2]: https://api.nasa.gov/                               "NASA Open APIs"
 [3]: https://www.python.org/downloads/                   "python.org"
 [4]: https://pip.pypa.io/en/stable/installation/         "pip documentation"
+[5][https://github.com/teoff9/MRME/archive/refs/heads/main.zip] "Download the zip"
