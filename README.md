@@ -10,15 +10,16 @@ You can download Python 3 at the [official site][3], while pip3 can be downloade
 
 ### Get the files
 
-Get the files either by cloning the repository with git CLI:  
+Get the files either by cloning the repository with git CLI:    
+
  `git clone https://github.com/teoff9/MRME/`
 
 or downloading the [zip][5].
 
-### Launch the program
+### Launching the program
 
 Once in the folder MRME: 
- - launch first *setup.py* 
+ - launch first *setup.py*  
 and then, once the packages are all installed: 
  - launch *MRME.py*
 
