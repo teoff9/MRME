@@ -30,4 +30,4 @@ If you would like to contribute to MRME, feel free to create a pull request.
 [2]: https://api.nasa.gov/                               "NASA Open APIs"
 [3]: https://www.python.org/downloads/                   "python.org"
 [4]: https://pip.pypa.io/en/stable/installation/         "pip documentation"
-[5][https://github.com/teoff9/MRME/archive/refs/heads/main.zip] "Download the zip"
+[5]: https://github.com/teoff9/MRME/archive/refs/heads/main.zip "Download the zip"
