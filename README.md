@@ -18,9 +18,9 @@ or downloading the [zip][5].
 
 ### Launching the program
 
-Once in the folder MRME: 
- - launch first *setup.py*  
-and then, once the packages are all installed: 
+Once in the folder: 
+ - launch first *setup.py*   
+ and then, once the packages are all installed: 
  - launch *MRME.py*
 
 ## Contribute to the project
