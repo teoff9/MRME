@@ -24,9 +24,9 @@ Open the command line, if using Windows, or the shell in Linux, and type:
   
 `cd /path/to/where/you/donwloaded/the/files/MRME-main`  
   
-then type  in the command line:
+then type  in the command line:   
 `python3 setup.py`  
- once the setup is done, proceed to type:
+ once the setup is done, proceed to type:   
 `python3 MRME.py`  
   
 ## Contribute to the project
