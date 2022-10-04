@@ -5,8 +5,10 @@ The program was created with Python and the [CustomTkinter][1] package for the G
 
 ## Installation
 
+### Requirements
+
 To run this program you need Python 3 and pip3 package manager.
-You can download Python 3 at the [official site][3], while pip3 can be downloaded [here][4].
+You can download Python 3 at the [official site][3], while pip3, if not already installed with Python can be downloaded [here][4].
 
 ### Get the files
 
@@ -18,11 +20,15 @@ or downloading the [zip][5].
 
 ### Launching the program
 
-Once in the folder: 
- - launch first *setup.py*   
- and then, once the packages are all installed: 
- - launch *MRME.py*
-
+Open the command line, if using Windows, or the shell in Linux, and type:   
+  
+`cd /path/to/where/you/donwloaded/the/files/MRME-main`  
+  
+then type  in the command line:
+`python3 setup.py`  
+ once the setup is done, proceed to type:
+`python3 MRME.py`  
+  
 ## Contribute to the project
 
 If you would like to contribute to MRME, feel free to create a pull request.
