@@ -20,7 +20,7 @@ or downloading the [zip][5].
 
 ### Launching the program
 
-###### On Windows
+### On Windows
 
 Open the command line and type:   
   
@@ -31,7 +31,7 @@ then type:
  once the setup is done, proceed to type:   
 `python3 MRME.py`
  
-###### On other systems
+#### On other systems
   
 Open the command line or shell and type:   
   
