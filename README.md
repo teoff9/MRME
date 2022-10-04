@@ -20,7 +20,7 @@ or downloading the [zip][5].
 
 ### Launching the program
 
-### On Windows
+#### On Windows
 
 Open the command line and type:   
   
